@@ -17,8 +17,13 @@
     padding: 10px;
 }
 
+.logo-container{
+    width:5%;
+}
+
 .title-container{
     display: flex;
+    width: 95%;
     justify-content: center;
     align-items: center;
 }
